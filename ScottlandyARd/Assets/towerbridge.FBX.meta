@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: d460e89d092605b4198c2ecd0818ea1e
+timeCreated: 1510957500
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: barandilla_exterior_001_Cube_019
+    100002: barandilla_exterior_002_Cube_006
+    100004: barandilla_exterior_003_Cube_027
+    100006: barandilla_exterior_Cube_013
+    100008: BezierCurve_001
+    100010: BezierCurve_001_MeshPart0
+    100012: BezierCurve_001_MeshPart1
+    100014: BezierCurve_001_MeshPart2
+    100016: BezierCurve_003
+    100018: Compass01
+    100020: Cube_000_Cube_031
+    100022: Cube_001
+    100024: Cube_002
+    100026: Cube_003
+    100028: Cube_004
+    100030: Cube_005
+    100032: Cube_006_Cube_032
+    100034: Cube_007_Cube_011
+    100036: Cube_008_Cube_020
+    100038: Cube_009_Cube_014
+    100040: Cube_010_Cube_015
+    100042: Cube_011_Cube_016
+    100044: Cube_012_Cube_018
+    100046: Cube_013_Cube_025
+    100048: Cube_014_Cube_008
+    100050: Cube_015_Cube_010
+    100052: Cube_015_Cube_010_MeshPart0
+    100054: Cube_015_Cube_010_MeshPart1
+    100056: Cube_015_Cube_010_MeshPart2
+    100058: Cube_015_Cube_010_MeshPart3
+    100060: Cube_016_Cube_009
+    100062: Cube_017_Cube_033
+    100064: Cube_018_Cube_028
+    100066: Cube_019_Cube_021
+    100068: Cube_020_Cube_022
+    100070: Cube_021_Cube_012
+    100072: Cube_022_Cube_026
+    100074: Cube_023_Cube_029
+    100076: Cube_024_Cube_030
+    100078: Cube_025_Cube_000
+    100080: Cube_026_Cube_042
+    100082: Cube_027_Cube_034
+    100084: Cube_028_Cube_036
+    100086: Cube_029_Cube_035
+    100088: Cube_030_Cube_038
+    100090: Cylinder
+    100092: Cylinder_001
+    100094: Cylinder_003
+    100096: Cylinder_005
+    100098: Cylinder_007
+    100100: dintel_002_Mesh_001
+    100102: dintel_Mesh
+    100104: Group01
+    100106: NurbsCircle
+    100108: NurbsCircle_MeshPart0
+    100110: NurbsCircle_MeshPart1
+    100112: NurbsCircle_MeshPart2
+    100114: Plane01
+    100116: rondel_001_Cube_024
+    100118: Tower_Cube_023
+    100120: //RootNode
+    400000: barandilla_exterior_001_Cube_019
+    400002: barandilla_exterior_002_Cube_006
+    400004: barandilla_exterior_003_Cube_027
+    400006: barandilla_exterior_Cube_013
+    400008: BezierCurve_001
+    400010: BezierCurve_001_MeshPart0
+    400012: BezierCurve_001_MeshPart1
+    400014: BezierCurve_001_MeshPart2
+    400016: BezierCurve_003
+    400018: Compass01
+    400020: Cube_000_Cube_031
+    400022: Cube_001
+    400024: Cube_002
+    400026: Cube_003
+    400028: Cube_004
+    400030: Cube_005
+    400032: Cube_006_Cube_032
+    400034: Cube_007_Cube_011
+    400036: Cube_008_Cube_020
+    400038: Cube_009_Cube_014
+    400040: Cube_010_Cube_015
+    400042: Cube_011_Cube_016
+    400044: Cube_012_Cube_018
+    400046: Cube_013_Cube_025
+    400048: Cube_014_Cube_008
+    400050: Cube_015_Cube_010
+    400052: Cube_015_Cube_010_MeshPart0
+    400054: Cube_015_Cube_010_MeshPart1
+    400056: Cube_015_Cube_010_MeshPart2
+    400058: Cube_015_Cube_010_MeshPart3
+    400060: Cube_016_Cube_009
+    400062: Cube_017_Cube_033
+    400064: Cube_018_Cube_028
+    400066: Cube_019_Cube_021
+    400068: Cube_020_Cube_022
+    400070: Cube_021_Cube_012
+    400072: Cube_022_Cube_026
+    400074: Cube_023_Cube_029
+    400076: Cube_024_Cube_030
+    400078: Cube_025_Cube_000
+    400080: Cube_026_Cube_042
+    400082: Cube_027_Cube_034
+    400084: Cube_028_Cube_036
+    400086: Cube_029_Cube_035
+    400088: Cube_030_Cube_038
+    400090: Cylinder
+    400092: Cylinder_001
+    400094: Cylinder_003
+    400096: Cylinder_005
+    400098: Cylinder_007
+    400100: dintel_002_Mesh_001
+    400102: dintel_Mesh
+    400104: Group01
+    400106: NurbsCircle
+    400108: NurbsCircle_MeshPart0
+    400110: NurbsCircle_MeshPart1
+    400112: NurbsCircle_MeshPart2
+    400114: Plane01
+    400116: rondel_001_Cube_024
+    400118: Tower_Cube_023
+    400120: //RootNode
+    2300000: barandilla_exterior_001_Cube_019
+    2300002: barandilla_exterior_002_Cube_006
+    2300004: barandilla_exterior_003_Cube_027
+    2300006: barandilla_exterior_Cube_013
+    2300008: BezierCurve_001_MeshPart0
+    2300010: BezierCurve_001_MeshPart1
+    2300012: BezierCurve_001_MeshPart2
+    2300014: BezierCurve_003
+    2300016: Cube_000_Cube_031
+    2300018: Cube_001
+    2300020: Cube_002
+    2300022: Cube_003
+    2300024: Cube_004
+    2300026: Cube_005
+    2300028: Cube_006_Cube_032
+    2300030: Cube_007_Cube_011
+    2300032: Cube_008_Cube_020
+    2300034: Cube_009_Cube_014
+    2300036: Cube_010_Cube_015
+    2300038: Cube_011_Cube_016
+    2300040: Cube_012_Cube_018
+    2300042: Cube_013_Cube_025
+    2300044: Cube_014_Cube_008
+    2300046: Cube_015_Cube_010_MeshPart0
+    2300048: Cube_015_Cube_010_MeshPart1
+    2300050: Cube_015_Cube_010_MeshPart2
+    2300052: Cube_015_Cube_010_MeshPart3
+    2300054: Cube_016_Cube_009
+    2300056: Cube_017_Cube_033
+    2300058: Cube_018_Cube_028
+    2300060: Cube_019_Cube_021
+    2300062: Cube_020_Cube_022
+    2300064: Cube_021_Cube_012
+    2300066: Cube_022_Cube_026
+    2300068: Cube_023_Cube_029
+    2300070: Cube_024_Cube_030
+    2300072: Cube_025_Cube_000
+    2300074: Cube_026_Cube_042
+    2300076: Cube_027_Cube_034
+    2300078: Cube_028_Cube_036
+    2300080: Cube_029_Cube_035
+    2300082: Cube_030_Cube_038
+    2300084: Cylinder
+    2300086: Cylinder_001
+    2300088: Cylinder_003
+    2300090: Cylinder_005
+    2300092: Cylinder_007
+    2300094: dintel_002_Mesh_001
+    2300096: dintel_Mesh
+    2300098: NurbsCircle_MeshPart0
+    2300100: NurbsCircle_MeshPart1
+    2300102: NurbsCircle_MeshPart2
+    2300104: Plane01
+    2300106: rondel_001_Cube_024
+    2300108: Tower_Cube_023
+    3300000: barandilla_exterior_001_Cube_019
+    3300002: barandilla_exterior_002_Cube_006
+    3300004: barandilla_exterior_003_Cube_027
+    3300006: barandilla_exterior_Cube_013
+    3300008: BezierCurve_001_MeshPart0
+    3300010: BezierCurve_001_MeshPart1
+    3300012: BezierCurve_001_MeshPart2
+    3300014: BezierCurve_003
+    3300016: Cube_000_Cube_031
+    3300018: Cube_001
+    3300020: Cube_002
+    3300022: Cube_003
+    3300024: Cube_004
+    3300026: Cube_005
+    3300028: Cube_006_Cube_032
+    3300030: Cube_007_Cube_011
+    3300032: Cube_008_Cube_020
+    3300034: Cube_009_Cube_014
+    3300036: Cube_010_Cube_015
+    3300038: Cube_011_Cube_016
+    3300040: Cube_012_Cube_018
+    3300042: Cube_013_Cube_025
+    3300044: Cube_014_Cube_008
+    3300046: Cube_015_Cube_010_MeshPart0
+    3300048: Cube_015_Cube_010_MeshPart1
+    3300050: Cube_015_Cube_010_MeshPart2
+    3300052: Cube_015_Cube_010_MeshPart3
+    3300054: Cube_016_Cube_009
+    3300056: Cube_017_Cube_033
+    3300058: Cube_018_Cube_028
+    3300060: Cube_019_Cube_021
+    3300062: Cube_020_Cube_022
+    3300064: Cube_021_Cube_012
+    3300066: Cube_022_Cube_026
+    3300068: Cube_023_Cube_029
+    3300070: Cube_024_Cube_030
+    3300072: Cube_025_Cube_000
+    3300074: Cube_026_Cube_042
+    3300076: Cube_027_Cube_034
+    3300078: Cube_028_Cube_036
+    3300080: Cube_029_Cube_035
+    3300082: Cube_030_Cube_038
+    3300084: Cylinder
+    3300086: Cylinder_001
+    3300088: Cylinder_003
+    3300090: Cylinder_005
+    3300092: Cylinder_007
+    3300094: dintel_002_Mesh_001
+    3300096: dintel_Mesh
+    3300098: NurbsCircle_MeshPart0
+    3300100: NurbsCircle_MeshPart1
+    3300102: NurbsCircle_MeshPart2
+    3300104: Plane01
+    3300106: rondel_001_Cube_024
+    3300108: Tower_Cube_023
+    4300000: Plane01
+    4300002: Cube_029_Cube_035
+    4300004: Cube_027_Cube_034
+    4300006: Cube_017_Cube_033
+    4300008: Cube_011_Cube_016
+    4300010: Cube_002
+    4300012: Cube_012_Cube_018
+    4300014: Cube_007_Cube_011
+    4300016: Cube_006_Cube_032
+    4300018: Cube_000_Cube_031
+    4300020: Cube_003
+    4300022: Cube_018_Cube_028
+    4300024: Cube_026_Cube_042
+    4300026: dintel_Mesh
+    4300028: NurbsCircle_MeshPart0
+    4300030: NurbsCircle_MeshPart1
+    4300032: NurbsCircle_MeshPart2
+    4300034: Cube_004
+    4300036: Cylinder_005
+    4300038: Cube_022_Cube_026
+    4300040: Cube_021_Cube_012
+    4300042: Cube_020_Cube_022
+    4300044: Cube_019_Cube_021
+    4300046: Cube_016_Cube_009
+    4300048: Cube_014_Cube_008
+    4300050: Cube_015_Cube_010_MeshPart0
+    4300052: Cube_015_Cube_010_MeshPart1
+    4300054: Cube_015_Cube_010_MeshPart2
+    4300056: Cube_015_Cube_010_MeshPart3
+    4300058: Cube_013_Cube_025
+    4300060: rondel_001_Cube_024
+    4300062: dintel_002_Mesh_001
+    4300064: Tower_Cube_023
+    4300066: Cylinder
+    4300068: Cylinder_003
+    4300070: Cube_025_Cube_000
+    4300072: BezierCurve_003
+    4300074: barandilla_exterior_003_Cube_027
+    4300076: barandilla_exterior_002_Cube_006
+    4300078: Cube_030_Cube_038
+    4300080: Cube_028_Cube_036
+    4300082: Cube_024_Cube_030
+    4300084: Cube_023_Cube_029
+    4300086: Cylinder_007
+    4300088: Cube_008_Cube_020
+    4300090: barandilla_exterior_001_Cube_019
+    4300092: Cube_010_Cube_015
+    4300094: Cube_009_Cube_014
+    4300096: barandilla_exterior_Cube_013
+    4300098: Cube_005
+    4300100: BezierCurve_001_MeshPart0
+    4300102: BezierCurve_001_MeshPart1
+    4300104: BezierCurve_001_MeshPart2
+    4300106: Cube_001
+    4300108: Cylinder_001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: acac9927d5fca384d8fad72e67f25d91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 3299d288f0b5c0745b90e09483a5e54b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: cc9f63e59f775a04a92ee6491ce1f7f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: 6b44ce0322a42da45879263423ccc57b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05 - Default
+    second: {fileID: 2100000, guid: bf70d062e86ebdc4086a6acf69e520f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06 - Default
+    second: {fileID: 2100000, guid: cc716ce7aef268446bb53be3f7d0abd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: cc716ce7aef268446bb53be3f7d0abd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: b0e1f0c603e1c4644932ec3d2e5bbdc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #36'
+    second: {fileID: 2100000, guid: 8c798cd1a5908b94d9e54ec2d6b3161a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #37'
+    second: {fileID: 2100000, guid: a93f0809b46a5f942b970afe50cda16c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #38'
+    second: {fileID: 2100000, guid: ed57cb87e742b214998634ce36649b28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #39'
+    second: {fileID: 2100000, guid: 32611217db05aed449df1572b594e1bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #40'
+    second: {fileID: 2100000, guid: f9e88eb9c31fd5f47b2b627a5995ac34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a7f27a092d6a12b48aad75cc0f1c8876, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

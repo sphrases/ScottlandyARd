@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: 6b462be856c60a84788ce7264a28fc44
+timeCreated: 1510962006
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Direct01
+    100002: Direct01.Target
+    100004: ford crown victoria taxi.Model::Ford Crown Victoria Police01
+    100006: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart0
+    100008: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart1
+    100010: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart2
+    100012: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart3
+    100014: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart4
+    100016: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart5
+    100018: ford crown victoria taxi01
+    100020: Plane01
+    100022: reflect_box01
+    100024: //RootNode
+    400000: Direct01
+    400002: Direct01.Target
+    400004: ford crown victoria taxi.Model::Ford Crown Victoria Police01
+    400006: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart0
+    400008: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart1
+    400010: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart2
+    400012: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart3
+    400014: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart4
+    400016: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart5
+    400018: ford crown victoria taxi01
+    400020: Plane01
+    400022: reflect_box01
+    400024: //RootNode
+    2300000: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart0
+    2300002: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart1
+    2300004: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart2
+    2300006: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart3
+    2300008: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart4
+    2300010: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart5
+    2300012: Plane01
+    2300014: reflect_box01
+    3300000: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart0
+    3300002: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart1
+    3300004: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart2
+    3300006: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart3
+    3300008: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart4
+    3300010: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart5
+    3300012: Plane01
+    3300014: reflect_box01
+    4300000: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart0
+    4300002: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart1
+    4300004: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart2
+    4300006: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart3
+    4300008: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart4
+    4300010: ford crown victoria taxi.Model::Ford Crown Victoria Police01_MeshPart5
+    4300012: Plane01
+    4300014: reflect_box01
+    9500000: //RootNode
+    10800000: Direct01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body D01
+    second: {fileID: 2100000, guid: 0d94ea788db6e4c4db15ccd86275279b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body G01
+    second: {fileID: 2100000, guid: 30e8bb90758a53a4c9e86ea6a9ba4393, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body01
+    second: {fileID: 2100000, guid: bd5fdae4693ba444780616731a745ced, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome01
+    second: {fileID: 2100000, guid: fa328880cd464924bb420bb305836bf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dessous01
+    second: {fileID: 2100000, guid: f18ee9c39350d584d9291783f2dde5b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Disk01
+    second: {fileID: 2100000, guid: 19dd39e07884f4e45bad66c83ece0a3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Feux blanc01
+    second: {fileID: 2100000, guid: d256fbf7581872546acacd7c85644360, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Feux chrome01
+    second: {fileID: 2100000, guid: fbbb87038cb3df24b828ee130546f83a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Feux rouge01
+    second: {fileID: 2100000, guid: 7455d60b6104b714681d1571ee42b9b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Feux signal01
+    second: {fileID: 2100000, guid: a3feda9d77623e54b9d6e5680ce2ef56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grille01
+    second: {fileID: 2100000, guid: d1461008ba268964db27b72480a4b529, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interieur Vitre01
+    second: {fileID: 2100000, guid: 55195c28131180940912f7b0e869cadc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interieur sol01
+    second: {fileID: 2100000, guid: e7f3c6f3ed55622418ba9c812161b9d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interieur01
+    second: {fileID: 2100000, guid: 7d41cc5bc4b29db46bc25382640b6c9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jante chrome01
+    second: {fileID: 2100000, guid: 1e37744900e504348b6ffb1ba7e60140, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jante01
+    second: {fileID: 2100000, guid: c21b36b28d3135b41bae75b356d67687, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Joint de vitre01
+    second: {fileID: 2100000, guid: 945a2727f5aa1d44590ab893ac7882b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Logo FORD01
+    second: {fileID: 2100000, guid: 9aaecad8347830d438594ab78d5fb424, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal noir01
+    second: {fileID: 2100000, guid: 9171c21d22341494fa98442ba2335661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal01
+    second: {fileID: 2100000, guid: 2ddcac0b7cf6b6d4d834bf2251c57d9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miroir01
+    second: {fileID: 2100000, guid: 1dfe7226a01de3441aa35e4662feacdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: N_01
+    second: {fileID: 2100000, guid: 4649f3c4846972f41b875a9f9c5bd87e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a7f27a092d6a12b48aad75cc0f1c8876, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Partie noir01
+    second: {fileID: 2100000, guid: f4234f200edf2cc49b14a1a55bae5cfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Phare orange01
+    second: {fileID: 2100000, guid: ada06cfe553eb06438b9e6c5ca629d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Phare vitre01
+    second: {fileID: 2100000, guid: e3298c66e78cba24f97ce64c01eecd22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Phare01
+    second: {fileID: 2100000, guid: 69748212dd37ad346a98197b2f0b3e15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plaques01
+    second: {fileID: 2100000, guid: 4bf280f57c194ef4892ac35212ee8f65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastique Pub01
+    second: {fileID: 2100000, guid: cada3e33a5693e64aa131c24ba1178ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastique noir01
+    second: {fileID: 2100000, guid: 41fe37882dce46048b48b258f5e958e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pneu01
+    second: {fileID: 2100000, guid: 47c10361891dfc848aab87a3ff3cdc2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pub01
+    second: {fileID: 2100000, guid: 2258386f934e76b43b1de1cb95727c94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Siege01
+    second: {fileID: 2100000, guid: 023f8959c2452bf4abb1ea447a1291d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vitre noir01
+    second: {fileID: 2100000, guid: 0ce60fbb579968344b83b4db10212a6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vitre01
+    second: {fileID: 2100000, guid: 8dc5ff5d6dcdea8488573b139a6a69af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: relfection Material
+    second: {fileID: 2100000, guid: 0587fda50b84f1f4b9391a2cce2d24de, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
