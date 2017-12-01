@@ -1,0 +1,1490 @@
+fileFormatVersion: 2
+guid: cca08eb584924cd409346b3a902ee312
+timeCreated: 1512121116
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 137
+    100002: 38
+    100004: 39
+    100006: AEC
+    100008: ARCO
+    100010: BAJ
+    100012: BAJ 1
+    100014: BAJ 2
+    100016: BAJ01
+    100018: barra
+    100020: BARRAT
+    100022: BLANC
+    100024: Box01
+    100026: Box04
+    100028: BUSAEC
+    100030: BUSLBAJO
+    100032: BUSLFOC
+    100034: BUSLPLAC
+    100036: BUSLRAD
+    100038: BUSLREB
+    100040: BUSLSILLA
+    100042: Camera01
+    100044: Camera01 1
+    100046: Camera01.Target
+    100048: Camera01.Target 1
+    100050: CARROC
+    100052: CARRSUEL
+    100054: cris01
+    100056: cris02
+    100058: cris03
+    100060: cris04
+    100062: cris05
+    100064: cris06
+    100066: cris07
+    100068: cris08
+    100070: cris09
+    100072: cris12
+    100074: cris13
+    100076: cris14
+    100078: cris15
+    100080: cris16
+    100082: cris17
+    100084: cris18
+    100086: cris19
+    100088: cris20
+    100090: cris21
+    100092: cris22
+    100094: cris23
+    100096: cris24
+    100098: cris25
+    100100: cris26
+    100102: cris27
+    100104: cris28
+    100106: cris29
+    100108: cris30
+    100110: cris31
+    100112: cris32
+    100114: crist
+    100116: CRIST01
+    100118: CUADRO
+    100120: //RootNode
+    100122: Dummy01
+    100124: Dummy01 1
+    100126: ENTRBL
+    100128: ENTRBL01
+    100130: escalera
+    100132: ESPEJO
+    100134: ESPEJO 1
+    100136: FIVE
+    100138: FLECHA
+    100140: FLECHA01
+    100142: FOCO
+    100144: foco
+    100146: FOCO 1
+    100148: FOCO01
+    100150: FOCO02
+    100152: FOCO03
+    100154: FOCO04
+    100156: FOCO05
+    100158: FOCO06
+    100160: FOCO07
+    100162: FOCO08
+    100164: FOCO09
+    100166: FOCO10
+    100168: FOCO11
+    100170: FOCO12
+    100172: FOCO13
+    100174: FOCO15
+    100176: FOCO16
+    100178: FOCO17
+    100180: FOCO18
+    100182: FOCOS
+    100184: focos
+    100186: GLASS
+    100188: GOMA
+    100190: goma
+    100192: goma 1
+    100194: goma 2
+    100196: goma 3
+    100198: goma 4
+    100200: goma01
+    100202: GOMAD
+    100204: GOMAD 1
+    100206: GOMANEG
+    100208: GOMANEGR
+    100210: GOMAS
+    100212: GOMAS 1
+    100214: GOMAS01
+    100216: INTER
+    100218: INTER 1
+    100220: INTER 2
+    100222: INTER01
+    100224: INTER02
+    100226: INTER03
+    100228: Line79
+    100230: Line80
+    100232: Line81
+    100234: Line82
+    100236: Line83
+    100238: Line84
+    100240: MANGOV
+    100242: MATRIC
+    100244: MATRIC01
+    100246: NUMERO
+    100248: PANEL
+    100250: panel
+    100252: PANEL01
+    100254: panel01
+    100256: panel03
+    100258: panel04
+    100260: PANELD
+    100262: PANELT
+    100264: PESTILO
+    100266: PLACA01
+    100268: prue
+    100270: prue01
+    100272: RADIAD
+    100274: radiador
+    100276: REBORD
+    100278: rebord
+    100280: REBORD 1
+    100282: rebord 1
+    100284: rebord02
+    100286: rebord03
+    100288: rebord04
+    100290: rebord05
+    100292: rebord06
+    100294: rebord07
+    100296: rebord08
+    100298: rebord09
+    100300: rebord10
+    100302: rebord11
+    100304: rebord12
+    100306: rebord13
+    100308: rebord14
+    100310: rebord15
+    100312: rebroj
+    100314: Rectangle01
+    100316: Rectangle65
+    100318: 'rejilla '
+    100320: RET
+    100322: RET01
+    100324: RETRO
+    100326: RETRO 1
+    100328: RETROC
+    100330: RETROC 1
+    100332: RUEDA
+    100334: RUEDA 1
+    100336: rueda09
+    100338: rueda11
+    100340: rueda12
+    100342: rueda13
+    100344: rueda14
+    100346: rueda15
+    100348: RUEDAS
+    100350: RUEDAS01
+    100352: SEPB
+    100354: SEPB01
+    100356: SEPB02
+    100358: SEPB03
+    100360: SEPB04
+    100362: SEPB05
+    100364: SEPB06
+    100366: SEPB07
+    100368: SEPB08
+    100370: SEPB09
+    100372: SILLA
+    100374: silla
+    100376: silla 1
+    100378: SILLA01
+    100380: SILLA02
+    100382: SILLACOND
+    100384: SILLAS
+    100386: SILLAT
+    100388: sillat
+    100390: SILLAT01
+    100392: Spot01
+    100394: Spot01.Target
+    100396: Spot02
+    100398: Spot02.Target
+    100400: Spot03
+    100402: Spot03.Target
+    100404: Spot04
+    100406: Spot04.Target
+    100408: Spot05
+    100410: Spot05.Target
+    100412: SUELO
+    100414: SUELO 1
+    100416: SUELO 2
+    100418: SUELO02
+    100420: SUELO03
+    100422: SUELO05
+    100424: SUELO06
+    100426: SUELO07
+    100428: TAPA
+    100430: TAPA 1
+    100432: TAPA01
+    100434: tapacub05
+    100436: tapacub06
+    100438: tapacub07
+    100440: tapacub08
+    100442: tapacub09
+    100444: tapacub10
+    100446: TAPAS
+    100448: TICKET
+    100450: top
+    100452: TORNI03
+    100454: TORNI04
+    100456: TORNI05
+    100458: Torus01
+    100460: Torus02
+    100462: Torus03
+    100464: Torus04
+    100466: Torus05
+    100468: Torus06
+    100470: Torus07
+    100472: Torus08
+    100474: Torus09
+    100476: Torus10
+    100478: tub
+    100480: tub01
+    100482: tub03
+    100484: tubo09
+    100486: TUERCA16
+    100488: TUERCA17
+    100490: TUERCA18
+    100492: TUERCA19
+    100494: TUERCA20
+    100496: TUERCA21
+    100498: TUERCA22
+    100500: TUERCA23
+    100502: TUERCA24
+    100504: TUERCA25
+    100506: TUERCA26
+    100508: TUERCA27
+    100510: TUERCA28
+    100512: TUERCA29
+    100514: TUERCA30
+    100516: TUERCA31
+    100518: TUERCA32
+    100520: TUERCA33
+    100522: TUERCA34
+    100524: TUERCA35
+    100526: TUERCA36
+    100528: TUERCA37
+    100530: TUERCA38
+    100532: TUERCA39
+    100534: TUERCA40
+    100536: TUERCA41
+    100538: TUERCA42
+    100540: TUERCA43
+    100542: TUERCA44
+    100544: TUERCA45
+    100546: TUERCA46
+    100548: TUERCA47
+    100550: TUERCA49
+    100552: TUERCA50
+    100554: TUERCA51
+    100556: TUERCA52
+    100558: TUERCA53
+    100560: TUERCA54
+    100562: TUERCA55
+    100564: TUERCA57
+    100566: TUERCA58
+    100568: TUERCA59
+    100570: TUERCA60
+    100572: TUERCA61
+    100574: TUERCA62
+    100576: TUERCA63
+    100578: vent
+    100580: vent 1
+    100582: vent 2
+    100584: VOLANTE
+    400000: 137
+    400002: 38
+    400004: 39
+    400006: AEC
+    400008: ARCO
+    400010: BAJ
+    400012: BAJ 1
+    400014: BAJ 2
+    400016: BAJ01
+    400018: barra
+    400020: BARRAT
+    400022: BLANC
+    400024: Box01
+    400026: Box04
+    400028: BUSAEC
+    400030: BUSLBAJO
+    400032: BUSLFOC
+    400034: BUSLPLAC
+    400036: BUSLRAD
+    400038: BUSLREB
+    400040: BUSLSILLA
+    400042: Camera01
+    400044: Camera01 1
+    400046: Camera01.Target
+    400048: Camera01.Target 1
+    400050: CARROC
+    400052: CARRSUEL
+    400054: cris01
+    400056: cris02
+    400058: cris03
+    400060: cris04
+    400062: cris05
+    400064: cris06
+    400066: cris07
+    400068: cris08
+    400070: cris09
+    400072: cris12
+    400074: cris13
+    400076: cris14
+    400078: cris15
+    400080: cris16
+    400082: cris17
+    400084: cris18
+    400086: cris19
+    400088: cris20
+    400090: cris21
+    400092: cris22
+    400094: cris23
+    400096: cris24
+    400098: cris25
+    400100: cris26
+    400102: cris27
+    400104: cris28
+    400106: cris29
+    400108: cris30
+    400110: cris31
+    400112: cris32
+    400114: crist
+    400116: CRIST01
+    400118: CUADRO
+    400120: //RootNode
+    400122: Dummy01
+    400124: Dummy01 1
+    400126: ENTRBL
+    400128: ENTRBL01
+    400130: escalera
+    400132: ESPEJO
+    400134: ESPEJO 1
+    400136: FIVE
+    400138: FLECHA
+    400140: FLECHA01
+    400142: FOCO
+    400144: foco
+    400146: FOCO 1
+    400148: FOCO01
+    400150: FOCO02
+    400152: FOCO03
+    400154: FOCO04
+    400156: FOCO05
+    400158: FOCO06
+    400160: FOCO07
+    400162: FOCO08
+    400164: FOCO09
+    400166: FOCO10
+    400168: FOCO11
+    400170: FOCO12
+    400172: FOCO13
+    400174: FOCO15
+    400176: FOCO16
+    400178: FOCO17
+    400180: FOCO18
+    400182: FOCOS
+    400184: focos
+    400186: GLASS
+    400188: GOMA
+    400190: goma
+    400192: goma 1
+    400194: goma 2
+    400196: goma 3
+    400198: goma 4
+    400200: goma01
+    400202: GOMAD
+    400204: GOMAD 1
+    400206: GOMANEG
+    400208: GOMANEGR
+    400210: GOMAS
+    400212: GOMAS 1
+    400214: GOMAS01
+    400216: INTER
+    400218: INTER 1
+    400220: INTER 2
+    400222: INTER01
+    400224: INTER02
+    400226: INTER03
+    400228: Line79
+    400230: Line80
+    400232: Line81
+    400234: Line82
+    400236: Line83
+    400238: Line84
+    400240: MANGOV
+    400242: MATRIC
+    400244: MATRIC01
+    400246: NUMERO
+    400248: PANEL
+    400250: panel
+    400252: PANEL01
+    400254: panel01
+    400256: panel03
+    400258: panel04
+    400260: PANELD
+    400262: PANELT
+    400264: PESTILO
+    400266: PLACA01
+    400268: prue
+    400270: prue01
+    400272: RADIAD
+    400274: radiador
+    400276: REBORD
+    400278: rebord
+    400280: REBORD 1
+    400282: rebord 1
+    400284: rebord02
+    400286: rebord03
+    400288: rebord04
+    400290: rebord05
+    400292: rebord06
+    400294: rebord07
+    400296: rebord08
+    400298: rebord09
+    400300: rebord10
+    400302: rebord11
+    400304: rebord12
+    400306: rebord13
+    400308: rebord14
+    400310: rebord15
+    400312: rebroj
+    400314: Rectangle01
+    400316: Rectangle65
+    400318: 'rejilla '
+    400320: RET
+    400322: RET01
+    400324: RETRO
+    400326: RETRO 1
+    400328: RETROC
+    400330: RETROC 1
+    400332: RUEDA
+    400334: RUEDA 1
+    400336: rueda09
+    400338: rueda11
+    400340: rueda12
+    400342: rueda13
+    400344: rueda14
+    400346: rueda15
+    400348: RUEDAS
+    400350: RUEDAS01
+    400352: SEPB
+    400354: SEPB01
+    400356: SEPB02
+    400358: SEPB03
+    400360: SEPB04
+    400362: SEPB05
+    400364: SEPB06
+    400366: SEPB07
+    400368: SEPB08
+    400370: SEPB09
+    400372: SILLA
+    400374: silla
+    400376: silla 1
+    400378: SILLA01
+    400380: SILLA02
+    400382: SILLACOND
+    400384: SILLAS
+    400386: SILLAT
+    400388: sillat
+    400390: SILLAT01
+    400392: Spot01
+    400394: Spot01.Target
+    400396: Spot02
+    400398: Spot02.Target
+    400400: Spot03
+    400402: Spot03.Target
+    400404: Spot04
+    400406: Spot04.Target
+    400408: Spot05
+    400410: Spot05.Target
+    400412: SUELO
+    400414: SUELO 1
+    400416: SUELO 2
+    400418: SUELO02
+    400420: SUELO03
+    400422: SUELO05
+    400424: SUELO06
+    400426: SUELO07
+    400428: TAPA
+    400430: TAPA 1
+    400432: TAPA01
+    400434: tapacub05
+    400436: tapacub06
+    400438: tapacub07
+    400440: tapacub08
+    400442: tapacub09
+    400444: tapacub10
+    400446: TAPAS
+    400448: TICKET
+    400450: top
+    400452: TORNI03
+    400454: TORNI04
+    400456: TORNI05
+    400458: Torus01
+    400460: Torus02
+    400462: Torus03
+    400464: Torus04
+    400466: Torus05
+    400468: Torus06
+    400470: Torus07
+    400472: Torus08
+    400474: Torus09
+    400476: Torus10
+    400478: tub
+    400480: tub01
+    400482: tub03
+    400484: tubo09
+    400486: TUERCA16
+    400488: TUERCA17
+    400490: TUERCA18
+    400492: TUERCA19
+    400494: TUERCA20
+    400496: TUERCA21
+    400498: TUERCA22
+    400500: TUERCA23
+    400502: TUERCA24
+    400504: TUERCA25
+    400506: TUERCA26
+    400508: TUERCA27
+    400510: TUERCA28
+    400512: TUERCA29
+    400514: TUERCA30
+    400516: TUERCA31
+    400518: TUERCA32
+    400520: TUERCA33
+    400522: TUERCA34
+    400524: TUERCA35
+    400526: TUERCA36
+    400528: TUERCA37
+    400530: TUERCA38
+    400532: TUERCA39
+    400534: TUERCA40
+    400536: TUERCA41
+    400538: TUERCA42
+    400540: TUERCA43
+    400542: TUERCA44
+    400544: TUERCA45
+    400546: TUERCA46
+    400548: TUERCA47
+    400550: TUERCA49
+    400552: TUERCA50
+    400554: TUERCA51
+    400556: TUERCA52
+    400558: TUERCA53
+    400560: TUERCA54
+    400562: TUERCA55
+    400564: TUERCA57
+    400566: TUERCA58
+    400568: TUERCA59
+    400570: TUERCA60
+    400572: TUERCA61
+    400574: TUERCA62
+    400576: TUERCA63
+    400578: vent
+    400580: vent 1
+    400582: vent 2
+    400584: VOLANTE
+    2000000: Camera01
+    2000002: Camera01 1
+    2300000: 38
+    2300002: 39
+    2300004: AEC
+    2300006: ARCO
+    2300008: BAJ 1
+    2300010: BAJ 2
+    2300012: BAJ01
+    2300014: barra
+    2300016: BARRAT
+    2300018: Box01
+    2300020: Box04
+    2300022: CARROC
+    2300024: CARRSUEL
+    2300026: cris01
+    2300028: cris02
+    2300030: cris03
+    2300032: cris04
+    2300034: cris05
+    2300036: cris06
+    2300038: cris07
+    2300040: cris08
+    2300042: cris09
+    2300044: cris12
+    2300046: cris13
+    2300048: cris14
+    2300050: cris15
+    2300052: cris16
+    2300054: cris17
+    2300056: cris18
+    2300058: cris19
+    2300060: cris20
+    2300062: cris21
+    2300064: cris22
+    2300066: cris23
+    2300068: cris24
+    2300070: cris25
+    2300072: cris26
+    2300074: cris27
+    2300076: cris28
+    2300078: cris29
+    2300080: cris30
+    2300082: cris31
+    2300084: cris32
+    2300086: CRIST01
+    2300088: CUADRO
+    2300090: ENTRBL
+    2300092: ENTRBL01
+    2300094: escalera
+    2300096: ESPEJO
+    2300098: ESPEJO 1
+    2300100: FIVE
+    2300102: FLECHA
+    2300104: FLECHA01
+    2300106: FOCO01
+    2300108: FOCO02
+    2300110: FOCO04
+    2300112: FOCO05
+    2300114: FOCO07
+    2300116: FOCO08
+    2300118: FOCO09
+    2300120: FOCO10
+    2300122: FOCO13
+    2300124: FOCO17
+    2300126: FOCO18
+    2300128: GOMA
+    2300130: goma
+    2300132: goma 1
+    2300134: goma 2
+    2300136: goma 3
+    2300138: goma 4
+    2300140: goma01
+    2300142: GOMAD
+    2300144: GOMAD 1
+    2300146: GOMANEG
+    2300148: GOMANEGR
+    2300150: GOMAS 1
+    2300152: GOMAS01
+    2300154: INTER 2
+    2300156: INTER01
+    2300158: Line79
+    2300160: Line80
+    2300162: Line81
+    2300164: Line82
+    2300166: Line83
+    2300168: Line84
+    2300170: MANGOV
+    2300172: MATRIC
+    2300174: MATRIC01
+    2300176: NUMERO
+    2300178: panel01
+    2300180: panel03
+    2300182: PESTILO
+    2300184: PLACA01
+    2300186: prue
+    2300188: prue01
+    2300190: RADIAD
+    2300192: rebord
+    2300194: REBORD 1
+    2300196: rebord 1
+    2300198: rebord03
+    2300200: rebord04
+    2300202: rebord05
+    2300204: rebord15
+    2300206: Rectangle01
+    2300208: Rectangle65
+    2300210: 'rejilla '
+    2300212: RET
+    2300214: RET01
+    2300216: RETRO 1
+    2300218: RETROC 1
+    2300220: RUEDA
+    2300222: RUEDA 1
+    2300224: rueda09
+    2300226: rueda11
+    2300228: rueda12
+    2300230: rueda13
+    2300232: rueda14
+    2300234: rueda15
+    2300236: SEPB
+    2300238: SEPB01
+    2300240: SEPB02
+    2300242: SEPB03
+    2300244: SEPB04
+    2300246: SEPB05
+    2300248: SEPB06
+    2300250: SEPB07
+    2300252: SEPB08
+    2300254: SEPB09
+    2300256: SILLA
+    2300258: silla 1
+    2300260: SILLA01
+    2300262: SILLA02
+    2300264: SILLACOND
+    2300266: SILLAT
+    2300268: sillat
+    2300270: SILLAT01
+    2300272: SUELO 1
+    2300274: SUELO 2
+    2300276: SUELO07
+    2300278: TAPA
+    2300280: TAPA 1
+    2300282: TAPA01
+    2300284: tapacub05
+    2300286: tapacub06
+    2300288: tapacub07
+    2300290: tapacub08
+    2300292: tapacub09
+    2300294: tapacub10
+    2300296: TICKET
+    2300298: TORNI03
+    2300300: TORNI04
+    2300302: TORNI05
+    2300304: Torus01
+    2300306: Torus02
+    2300308: Torus03
+    2300310: Torus04
+    2300312: Torus05
+    2300314: Torus06
+    2300316: Torus07
+    2300318: Torus08
+    2300320: Torus09
+    2300322: Torus10
+    2300324: tub
+    2300326: tub01
+    2300328: tub03
+    2300330: tubo09
+    2300332: TUERCA16
+    2300334: TUERCA17
+    2300336: TUERCA18
+    2300338: TUERCA19
+    2300340: TUERCA20
+    2300342: TUERCA21
+    2300344: TUERCA22
+    2300346: TUERCA23
+    2300348: TUERCA24
+    2300350: TUERCA25
+    2300352: TUERCA26
+    2300354: TUERCA27
+    2300356: TUERCA28
+    2300358: TUERCA29
+    2300360: TUERCA30
+    2300362: TUERCA31
+    2300364: TUERCA32
+    2300366: TUERCA33
+    2300368: TUERCA34
+    2300370: TUERCA35
+    2300372: TUERCA36
+    2300374: TUERCA37
+    2300376: TUERCA38
+    2300378: TUERCA39
+    2300380: TUERCA40
+    2300382: TUERCA41
+    2300384: TUERCA42
+    2300386: TUERCA43
+    2300388: TUERCA44
+    2300390: TUERCA45
+    2300392: TUERCA46
+    2300394: TUERCA47
+    2300396: TUERCA49
+    2300398: TUERCA50
+    2300400: TUERCA51
+    2300402: TUERCA52
+    2300404: TUERCA53
+    2300406: TUERCA54
+    2300408: TUERCA55
+    2300410: TUERCA57
+    2300412: TUERCA58
+    2300414: TUERCA59
+    2300416: TUERCA60
+    2300418: TUERCA61
+    2300420: TUERCA62
+    2300422: TUERCA63
+    2300424: vent 1
+    2300426: vent 2
+    2300428: VOLANTE
+    3300000: 38
+    3300002: 39
+    3300004: AEC
+    3300006: ARCO
+    3300008: BAJ 1
+    3300010: BAJ 2
+    3300012: BAJ01
+    3300014: barra
+    3300016: BARRAT
+    3300018: Box01
+    3300020: Box04
+    3300022: CARROC
+    3300024: CARRSUEL
+    3300026: cris01
+    3300028: cris02
+    3300030: cris03
+    3300032: cris04
+    3300034: cris05
+    3300036: cris06
+    3300038: cris07
+    3300040: cris08
+    3300042: cris09
+    3300044: cris12
+    3300046: cris13
+    3300048: cris14
+    3300050: cris15
+    3300052: cris16
+    3300054: cris17
+    3300056: cris18
+    3300058: cris19
+    3300060: cris20
+    3300062: cris21
+    3300064: cris22
+    3300066: cris23
+    3300068: cris24
+    3300070: cris25
+    3300072: cris26
+    3300074: cris27
+    3300076: cris28
+    3300078: cris29
+    3300080: cris30
+    3300082: cris31
+    3300084: cris32
+    3300086: CRIST01
+    3300088: CUADRO
+    3300090: ENTRBL
+    3300092: ENTRBL01
+    3300094: escalera
+    3300096: ESPEJO
+    3300098: ESPEJO 1
+    3300100: FIVE
+    3300102: FLECHA
+    3300104: FLECHA01
+    3300106: FOCO01
+    3300108: FOCO02
+    3300110: FOCO04
+    3300112: FOCO05
+    3300114: FOCO07
+    3300116: FOCO08
+    3300118: FOCO09
+    3300120: FOCO10
+    3300122: FOCO13
+    3300124: FOCO17
+    3300126: FOCO18
+    3300128: GOMA
+    3300130: goma
+    3300132: goma 1
+    3300134: goma 2
+    3300136: goma 3
+    3300138: goma 4
+    3300140: goma01
+    3300142: GOMAD
+    3300144: GOMAD 1
+    3300146: GOMANEG
+    3300148: GOMANEGR
+    3300150: GOMAS 1
+    3300152: GOMAS01
+    3300154: INTER 2
+    3300156: INTER01
+    3300158: Line79
+    3300160: Line80
+    3300162: Line81
+    3300164: Line82
+    3300166: Line83
+    3300168: Line84
+    3300170: MANGOV
+    3300172: MATRIC
+    3300174: MATRIC01
+    3300176: NUMERO
+    3300178: panel01
+    3300180: panel03
+    3300182: PESTILO
+    3300184: PLACA01
+    3300186: prue
+    3300188: prue01
+    3300190: RADIAD
+    3300192: rebord
+    3300194: REBORD 1
+    3300196: rebord 1
+    3300198: rebord03
+    3300200: rebord04
+    3300202: rebord05
+    3300204: rebord15
+    3300206: Rectangle01
+    3300208: Rectangle65
+    3300210: 'rejilla '
+    3300212: RET
+    3300214: RET01
+    3300216: RETRO 1
+    3300218: RETROC 1
+    3300220: RUEDA
+    3300222: RUEDA 1
+    3300224: rueda09
+    3300226: rueda11
+    3300228: rueda12
+    3300230: rueda13
+    3300232: rueda14
+    3300234: rueda15
+    3300236: SEPB
+    3300238: SEPB01
+    3300240: SEPB02
+    3300242: SEPB03
+    3300244: SEPB04
+    3300246: SEPB05
+    3300248: SEPB06
+    3300250: SEPB07
+    3300252: SEPB08
+    3300254: SEPB09
+    3300256: SILLA
+    3300258: silla 1
+    3300260: SILLA01
+    3300262: SILLA02
+    3300264: SILLACOND
+    3300266: SILLAT
+    3300268: sillat
+    3300270: SILLAT01
+    3300272: SUELO 1
+    3300274: SUELO 2
+    3300276: SUELO07
+    3300278: TAPA
+    3300280: TAPA 1
+    3300282: TAPA01
+    3300284: tapacub05
+    3300286: tapacub06
+    3300288: tapacub07
+    3300290: tapacub08
+    3300292: tapacub09
+    3300294: tapacub10
+    3300296: TICKET
+    3300298: TORNI03
+    3300300: TORNI04
+    3300302: TORNI05
+    3300304: Torus01
+    3300306: Torus02
+    3300308: Torus03
+    3300310: Torus04
+    3300312: Torus05
+    3300314: Torus06
+    3300316: Torus07
+    3300318: Torus08
+    3300320: Torus09
+    3300322: Torus10
+    3300324: tub
+    3300326: tub01
+    3300328: tub03
+    3300330: tubo09
+    3300332: TUERCA16
+    3300334: TUERCA17
+    3300336: TUERCA18
+    3300338: TUERCA19
+    3300340: TUERCA20
+    3300342: TUERCA21
+    3300344: TUERCA22
+    3300346: TUERCA23
+    3300348: TUERCA24
+    3300350: TUERCA25
+    3300352: TUERCA26
+    3300354: TUERCA27
+    3300356: TUERCA28
+    3300358: TUERCA29
+    3300360: TUERCA30
+    3300362: TUERCA31
+    3300364: TUERCA32
+    3300366: TUERCA33
+    3300368: TUERCA34
+    3300370: TUERCA35
+    3300372: TUERCA36
+    3300374: TUERCA37
+    3300376: TUERCA38
+    3300378: TUERCA39
+    3300380: TUERCA40
+    3300382: TUERCA41
+    3300384: TUERCA42
+    3300386: TUERCA43
+    3300388: TUERCA44
+    3300390: TUERCA45
+    3300392: TUERCA46
+    3300394: TUERCA47
+    3300396: TUERCA49
+    3300398: TUERCA50
+    3300400: TUERCA51
+    3300402: TUERCA52
+    3300404: TUERCA53
+    3300406: TUERCA54
+    3300408: TUERCA55
+    3300410: TUERCA57
+    3300412: TUERCA58
+    3300414: TUERCA59
+    3300416: TUERCA60
+    3300418: TUERCA61
+    3300420: TUERCA62
+    3300422: TUERCA63
+    3300424: vent 1
+    3300426: vent 2
+    3300428: VOLANTE
+    4300000: ARCO
+    4300002: barra
+    4300004: BARRAT
+    4300006: CARROC
+    4300008: CARRSUEL
+    4300010: ENTRBL01
+    4300012: escalera
+    4300014: TUERCA32
+    4300016: TUERCA33
+    4300018: TUERCA34
+    4300020: TUERCA35
+    4300022: TUERCA36
+    4300024: TUERCA37
+    4300026: TUERCA38
+    4300028: TUERCA39
+    4300030: TUERCA40
+    4300032: TUERCA41
+    4300034: TUERCA42
+    4300036: TUERCA43
+    4300038: TUERCA44
+    4300040: TUERCA45
+    4300042: TUERCA46
+    4300044: TUERCA47
+    4300046: Line81
+    4300048: tapacub07
+    4300050: rueda12
+    4300052: rueda13
+    4300054: Line82
+    4300056: tapacub08
+    4300058: rueda09
+    4300060: rueda11
+    4300062: rueda14
+    4300064: rueda15
+    4300066: RUEDA
+    4300068: Line79
+    4300070: tapacub06
+    4300072: Line80
+    4300074: TUERCA27
+    4300076: TUERCA19
+    4300078: TUERCA22
+    4300080: TUERCA18
+    4300082: TUERCA20
+    4300084: TUERCA21
+    4300086: TUERCA23
+    4300088: TUERCA29
+    4300090: TUERCA28
+    4300092: TUERCA17
+    4300094: TUERCA26
+    4300096: TUERCA25
+    4300098: TUERCA24
+    4300100: TUERCA31
+    4300102: TUERCA30
+    4300104: TUERCA16
+    4300106: tapacub05
+    4300108: Line83
+    4300110: TUERCA49
+    4300112: TUERCA50
+    4300114: TUERCA51
+    4300116: tapacub09
+    4300118: TUERCA52
+    4300120: TUERCA53
+    4300122: TUERCA54
+    4300124: TUERCA55
+    4300126: RUEDA
+    4300128: tapacub10
+    4300130: Line84
+    4300132: TUERCA57
+    4300134: TUERCA58
+    4300136: TUERCA59
+    4300138: TUERCA60
+    4300140: TUERCA61
+    4300142: TUERCA62
+    4300144: TUERCA63
+    4300146: BAJ
+    4300148: BAJ01
+    4300150: prue
+    4300152: prue01
+    4300154: BAJ
+    4300156: TAPA01
+    4300158: TAPA
+    4300160: FOCO02
+    4300162: Torus03
+    4300164: FOCO04
+    4300166: Torus04
+    4300168: FOCO05
+    4300170: Torus05
+    4300172: FOCO07
+    4300174: Torus06
+    4300176: TORNI04
+    4300178: TORNI03
+    4300180: FOCO08
+    4300182: Torus02
+    4300184: FOCO01
+    4300186: Torus01
+    4300188: FOCO13
+    4300190: Torus09
+    4300192: Torus10
+    4300194: FOCO10
+    4300196: FOCO09
+    4300198: Torus07
+    4300200: Torus08
+    4300202: FOCO17
+    4300204: FOCO18
+    4300206: TORNI05
+    4300208: RET01
+    4300210: INTER01
+    4300212: FLECHA01
+    4300214: RET
+    4300216: FLECHA
+    4300218: INTER
+    4300220: RETRO
+    4300222: ESPEJO
+    4300224: ESPEJO
+    4300226: RETROC
+    4300228: SUELO
+    4300230: SUELO
+    4300232: SUELO07
+    4300234: Rectangle01
+    4300236: Box01
+    4300238: GOMAS
+    4300240: panel01
+    4300242: GOMAS01
+    4300244: panel03
+    4300246: Rectangle65
+    4300248: Box04
+    4300250: PLACA01
+    4300252: TAPA
+    4300254: TICKET
+    4300256: 39
+    4300258: 38
+    4300260: NUMERO
+    4300262: SILLACOND
+    4300264: sillat
+    4300266: silla
+    4300268: SILLA
+    4300270: SILLA01
+    4300272: SILLA02
+    4300274: SILLAT
+    4300276: SILLAT01
+    4300278: SEPB04
+    4300280: SEPB03
+    4300282: SEPB
+    4300284: SEPB01
+    4300286: SEPB02
+    4300288: SEPB08
+    4300290: SEPB05
+    4300292: SEPB06
+    4300294: SEPB07
+    4300296: ENTRBL
+    4300298: SEPB09
+    4300300: 'rejilla '
+    4300302: AEC
+    4300304: CUADRO
+    4300306: FIVE
+    4300308: MANGOV
+    4300310: MATRIC
+    4300312: MATRIC01
+    4300314: PESTILO
+    4300316: RADIAD
+    4300318: VOLANTE
+    4300320: cris01
+    4300322: cris02
+    4300324: cris03
+    4300326: cris04
+    4300328: cris05
+    4300330: cris06
+    4300332: cris07
+    4300334: cris08
+    4300336: cris09
+    4300338: cris12
+    4300340: cris13
+    4300342: cris14
+    4300344: cris15
+    4300346: cris16
+    4300348: cris17
+    4300350: cris18
+    4300352: cris19
+    4300354: cris20
+    4300356: cris21
+    4300358: cris22
+    4300360: cris23
+    4300362: cris24
+    4300364: cris25
+    4300366: cris26
+    4300368: cris27
+    4300370: cris28
+    4300372: cris29
+    4300374: cris30
+    4300376: cris31
+    4300378: cris32
+    4300380: CRIST01
+    4300382: goma
+    4300384: goma
+    4300386: goma
+    4300388: goma
+    4300390: goma
+    4300392: goma01
+    4300394: vent
+    4300396: vent
+    4300398: tub
+    4300400: tub01
+    4300402: tub03
+    4300404: tubo09
+    4300406: REBORD
+    4300408: rebord
+    4300410: rebord
+    4300412: rebord03
+    4300414: rebord04
+    4300416: rebord05
+    4300418: rebord15
+    4300420: GOMANEG
+    4300422: GOMAD
+    4300424: GOMAD
+    4300426: GOMA
+    4300428: GOMANEGR
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Spot01
+    10800002: Spot02
+    10800004: Spot03
+    10800006: Spot04
+    10800008: Spot05
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 137P
+    second: {fileID: 2100000, guid: 76bf3961d1e7e8943bc6f47a722961ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 38
+    second: {fileID: 2100000, guid: 9eefad4b211db3b4a84f2d6fb9c9a3e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AEC
+    second: {fileID: 2100000, guid: a102aaa3ec8c23849b73a9e92c8a2946, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BLANCO
+    second: {fileID: 2100000, guid: ab030d2f21f0489498b32c9c225da665, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BUSrued
+    second: {fileID: 2100000, guid: b4f8fa3eb338d1b49a11d0c0cf1d6b9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CUBISIML
+    second: {fileID: 2100000, guid: d4da58ba80802dd43aeb275d81e38e48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CUERO
+    second: {fileID: 2100000, guid: 5100b57d880a6ac41a0fb25282517df1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ESPEJO
+    second: {fileID: 2100000, guid: 751679a1c0d18844ea9a09ee6f8a04ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FIVE
+    second: {fileID: 2100000, guid: bf39e47274eb532449e78652e1c9ed3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GLASS
+    second: {fileID: 2100000, guid: d318bfb5b423b1145a84973b37100af1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GRIS
+    second: {fileID: 2100000, guid: ddd4bd049452e594a9bf5d2fa4c92097, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INTER
+    second: {fileID: 2100000, guid: 9b25d4847bb2d7f45891f48bd2de1125, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: METAL
+    second: {fileID: 2100000, guid: b601bdf6f7a85f64ba3d0b825f6c637e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #117'
+    second: {fileID: 2100000, guid: a102aaa3ec8c23849b73a9e92c8a2946, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #118'
+    second: {fileID: 2100000, guid: ad8a276076a8b6a499a11df91acf822e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #121'
+    second: {fileID: 2100000, guid: ddc9a5229f3919045bc0ffd7115f9df3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a7f27a092d6a12b48aad75cc0f1c8876, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROJOPANL
+    second: {fileID: 2100000, guid: aa336a97d127a654991780168a43d3e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SILLAT
+    second: {fileID: 2100000, guid: 206280d22141fdc499ce506201fd0cee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TELAl
+    second: {fileID: 2100000, guid: d6a8e0a8d6f74314995ba3db94b73a0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TICKETS
+    second: {fileID: 2100000, guid: 510ee21992591dc4ab7904ab3c60b44c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TXBLACK
+    second: {fileID: 2100000, guid: d4c716b888917e643ba6fd804d254018, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TXMETAL
+    second: {fileID: 2100000, guid: 640ef5fcc8851084fbbfce98b30e0668, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back
+    second: {fileID: 2100000, guid: 81651bf08dc78dc499138b9a762f6183, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fromt
+    second: {fileID: 2100000, guid: 28f7f89b897e71c4da4816d7f0b7b1b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frontal
+    second: {fileID: 2100000, guid: d5e2206d001fb4d46ad574a35d4dab2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: left
+    second: {fileID: 2100000, guid: f8d0494060d2d83409a156caa5034657, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: multi
+    second: {fileID: 2100000, guid: b69d839198f77574790099be625efa90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: negro
+    second: {fileID: 2100000, guid: 9a08956e574d05f41b779ac8fd9b8206, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rejilla
+    second: {fileID: 2100000, guid: 9ea84af9f4b22984586ae1645ba7c733, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: right
+    second: {fileID: 2100000, guid: a048e3760c3a53443b5be2492667ebad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suelo
+    second: {fileID: 2100000, guid: e3c0520e8308cd3459f298b07c842560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vent
+    second: {fileID: 2100000, guid: 8e3901af6c43a8549824523678ab834b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
