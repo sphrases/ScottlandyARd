@@ -16,8 +16,8 @@ MonoBehaviour:
     ufoLicenseKey: QVVFQ2xGZi8vLy8vQUFBQUtKeWh3VVVyV0VVM2wreVBmYm1qOEFDR0NBbmUyZ0I3UVp2OFdzZC9GWDFmZ3lBd2pUbmZydTFVdHhsUXMrY2VXTGlxd2tMdWVUV3diS1VMR2JURUswMmZ5aGVpL2NuSzBSdU1DZHp5S25PWDZ4TG9UTHgvTGIyYUhIWThPT2hLbEloRVlpckdtRjZKQ200eWE0c2lmUmgwV1FSSzRrbHVaSDUwREx6RUFLL3hTSFFIdVUwMTdQcWNxemI3OE5sT3BFYno4cVkzajZTcWNYR3g0UTQybUNKZTJFajlzdE0xTDhiMkMyQ01MQ3kwSjBnVnVwMmRYaldzY0pJR01iUWVmOXp2VUdCMjllbmFGejNRbjQyUHRvVkx6eEFUNTZsblBVRmM3dzA5UnNyWWxOK2RDckx1eHZQTkJDOVd1K1lqNFJxZyttQlVDNThpVFVtNUkwb1o0a0dZZ3d1WlhIMmczOEpzZi9YcTBHZGs=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
-    maxSimultaneousImageTargets: 1
-    maxSimultaneousObjectTargets: 1
+    maxSimultaneousImageTargets: 3
+    maxSimultaneousObjectTargets: 3
     useDelayedLoadingObjectTargets: 0
     cameraDirection: 0
     mirrorVideoBackground: 0
@@ -74,7 +74,7 @@ MonoBehaviour:
     modelTransformEnabled: 0
     modelTransform: {x: 0, y: 0.1, z: -0.1}
   webcam:
-    deviceNameSetInEditor: 
+    deviceNameSetInEditor: C922 Pro Stream Webcam
     flipHorizontally: 0
     turnOffWebCam: 0
     renderTextureLayer: 30
