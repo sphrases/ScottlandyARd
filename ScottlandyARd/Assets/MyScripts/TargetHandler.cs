@@ -4,13 +4,11 @@ using UnityEngine;
 using Vuforia;
 using System;
 
-
-
 public class TargetHandler : MonoBehaviour, ITrackableEventHandler {
 
-	public GameObject MainCam;
-	public GameObject SecondaryCam;
-	public GameObject disableCam1;
+	public Camera MainCam;
+	public Camera SecondaryCam;
+	public Camera disableCam1;
 	public GameObject ImageMap;
 
 	public int delay;
@@ -18,13 +16,11 @@ public class TargetHandler : MonoBehaviour, ITrackableEventHandler {
 
 	// Use this for initialization
 	void Start () {
-
 		mTrackableBehaviour = GetComponent<TrackableBehaviour>();
 		if (mTrackableBehaviour)
 		{
 			mTrackableBehaviour.RegisterTrackableEventHandler(this);
 		}
-		
 	}
 	
 	// Update is called once per frame
@@ -37,10 +33,15 @@ public class TargetHandler : MonoBehaviour, ITrackableEventHandler {
 
 			if (newStatus == TrackableBehaviour.Status.TRACKED) {
 			
-				MainCam.gameObject.SetActive (false);
-				disableCam1.gameObject.SetActive (false);
-				SecondaryCam.gameObject.SetActive (true);
-
+				//MainCam.gameObject.SetActive (false);
+				MainCam.enabled = false;
+				disableCam1.enabled = false;
+				SecondaryCam.enabled = true;
+				/*
+				MainCam.SetActive(false);
+				disableCam1.SetActive(false);
+				SecondaryCam.SetActive(true);
+				*/
 				StartCoroutine (checkStatus ());
 
 			} else if (newStatus == TrackableBehaviour.Status.NOT_FOUND) {
@@ -54,9 +55,9 @@ public class TargetHandler : MonoBehaviour, ITrackableEventHandler {
 	IEnumerator checkStatus() {
 		yield return new WaitForSeconds(delay);
 
-		SecondaryCam.gameObject.SetActive (false);
-		MainCam.gameObject.SetActive (true);
-		disableCam1.gameObject.SetActive (true);
+		MainCam.enabled = true;
+		disableCam1.enabled = false;
+		SecondaryCam.enabled = false;
 	
 	}
 }

@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyScripts\TargetHandler.cs">
     <Files>
-      <File FileName="Assets\MyScripts\TargetHandler.cs" Line="55" Column="42" />
+      <File FileName="Assets\MyScripts\TargetHandler.cs" Line="23" Column="4" />
       <File FileName="Assets\MyScripts\MainTracker.cs" Line="10" Column="33" />
     </Files>
   </MonoDevelop.Ide.Workbench>
