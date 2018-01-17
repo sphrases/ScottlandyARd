@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 1e7f5ce3dd1dfb54b8b0276f46de906d
+timeCreated: 1516180856
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Object01
+    100002: Object04
+    100004: QM_bassei1
+    100006: QM_bassein
+    100008: QM_body
+    100010: QM_body01
+    100012: QM_elda_1
+    100014: QM_elda_2
+    100016: QM_elda_3
+    100018: QM_kort
+    100020: QM_l04
+    100022: QM_lodki
+    100024: QM_lodki_b
+    100026: QM_niz
+    100028: QM_okna
+    100030: QM_okna_pe
+    100032: QM_paluba
+    100034: QM_paluba_
+    100036: QM_text
+    100038: QM_truba
+    100040: QM_verh
+    100042: QM_zabor
+    100044: QM_zabor_2
+    100046: QM_zabor_3
+    100048: QM_zad
+    100050: //RootNode
+    100052: Sphere01
+    400000: Object01
+    400002: Object04
+    400004: QM_bassei1
+    400006: QM_bassein
+    400008: QM_body
+    400010: QM_body01
+    400012: QM_elda_1
+    400014: QM_elda_2
+    400016: QM_elda_3
+    400018: QM_kort
+    400020: QM_l04
+    400022: QM_lodki
+    400024: QM_lodki_b
+    400026: QM_niz
+    400028: QM_okna
+    400030: QM_okna_pe
+    400032: QM_paluba
+    400034: QM_paluba_
+    400036: QM_text
+    400038: QM_truba
+    400040: QM_verh
+    400042: QM_zabor
+    400044: QM_zabor_2
+    400046: QM_zabor_3
+    400048: QM_zad
+    400050: //RootNode
+    400052: Sphere01
+    2300000: Object01
+    2300002: Object04
+    2300004: QM_bassei1
+    2300006: QM_bassein
+    2300008: QM_body
+    2300010: QM_body01
+    2300012: QM_elda_1
+    2300014: QM_elda_2
+    2300016: QM_elda_3
+    2300018: QM_kort
+    2300020: QM_l04
+    2300022: QM_lodki
+    2300024: QM_lodki_b
+    2300026: QM_niz
+    2300028: QM_okna
+    2300030: QM_okna_pe
+    2300032: QM_paluba
+    2300034: QM_paluba_
+    2300036: QM_text
+    2300038: QM_truba
+    2300040: QM_verh
+    2300042: QM_zabor
+    2300044: QM_zabor_2
+    2300046: QM_zabor_3
+    2300048: QM_zad
+    2300050: Sphere01
+    3300000: Object01
+    3300002: Object04
+    3300004: QM_bassei1
+    3300006: QM_bassein
+    3300008: QM_body
+    3300010: QM_body01
+    3300012: QM_elda_1
+    3300014: QM_elda_2
+    3300016: QM_elda_3
+    3300018: QM_kort
+    3300020: QM_l04
+    3300022: QM_lodki
+    3300024: QM_lodki_b
+    3300026: QM_niz
+    3300028: QM_okna
+    3300030: QM_okna_pe
+    3300032: QM_paluba
+    3300034: QM_paluba_
+    3300036: QM_text
+    3300038: QM_truba
+    3300040: QM_verh
+    3300042: QM_zabor
+    3300044: QM_zabor_2
+    3300046: QM_zabor_3
+    3300048: QM_zad
+    3300050: Sphere01
+    4300000: QM_body
+    4300002: QM_okna_pe
+    4300004: QM_truba
+    4300006: QM_elda_1
+    4300008: QM_elda_2
+    4300010: QM_zabor
+    4300012: QM_niz
+    4300014: QM_okna
+    4300016: QM_elda_3
+    4300018: QM_bassein
+    4300020: QM_paluba_
+    4300022: QM_verh
+    4300024: QM_paluba
+    4300026: QM_zad
+    4300028: Object04
+    4300030: QM_bassei1
+    4300032: QM_lodki
+    4300034: QM_lodki_b
+    4300036: QM_zabor_2
+    4300038: QM_zabor_3
+    4300040: QM_body01
+    4300042: QM_text
+    4300044: QM_kort
+    4300046: Object01
+    4300048: QM_l04
+    4300050: Sphere01
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_bassein
+    second: {fileID: 2100000, guid: 2f00e341c9beb27459cb61315f7d99b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_bassein_water
+    second: {fileID: 2100000, guid: 76ac6a91d33e2b443a7847d1cd285ce9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_body
+    second: {fileID: 2100000, guid: 7000031088bf50d4d99ed895a34b08f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_elda_1
+    second: {fileID: 2100000, guid: c6e62fd16216fe24596a6d4ca885a9a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_elda_2
+    second: {fileID: 2100000, guid: c83aa6b8f52748a43b65cf8da14e3705, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_kort
+    second: {fileID: 2100000, guid: 8593c1f10724c864183e1a45e1d96043, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_l
+    second: {fileID: 2100000, guid: f2c620fe9398ac441ae7c651b74badda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_lodki
+    second: {fileID: 2100000, guid: 63e6b34bca578f74989c5bdb43a3d90f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_lodki_blik
+    second: {fileID: 2100000, guid: 1b2cb44c3b680af46b4da4c8db3353df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_niz
+    second: {fileID: 2100000, guid: 3059139d295c9794e9894dd90868d2f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_nos
+    second: {fileID: 2100000, guid: d69e67fd10723ef4280958b9bb11bf94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_okna
+    second: {fileID: 2100000, guid: 7d18ecbcdf166a84698c0e0b081ee560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_paluba
+    second: {fileID: 2100000, guid: 51413ffee9616c24c81ca1d9d4dacf73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_paluba_doski
+    second: {fileID: 2100000, guid: de40f5252064cb34f86f4057bc82e6cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_truba
+    second: {fileID: 2100000, guid: 9fe5b3065a22efe4497de1f6df0d1046, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_verh
+    second: {fileID: 2100000, guid: b8fb8657db035714fbfa7a377f05e458, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_zabor
+    second: {fileID: 2100000, guid: fdb46a35933f6dd439bd2acc4daeef02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_zabor_2
+    second: {fileID: 2100000, guid: 2383556b0e2db3444a452eb566989392, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_zabor_3
+    second: {fileID: 2100000, guid: 104080b95c725f7468de31bd6eb601ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QM_zad
+    second: {fileID: 2100000, guid: 214be16205e754143bb77cdf4dbb9a0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _4___Default
+    second: {fileID: 2100000, guid: d267a08014be93241bc5dd715aaa6694, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_214228153
+    second: {fileID: 2100000, guid: 5fa6b9478adcaab4e88ddca82d41957e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
